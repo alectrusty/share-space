@@ -1,7 +1,7 @@
 Estimating Uncertainty at a given spatial scale
 ================
 
-A grid-level dataset related to the spatial boundaries of interest. In
+Dataset needed: a grid-level dataset related to the spatial boundaries of interest. In
 this case, each grid cell is associated with a given planning unit ID.
 You will also need the AGLB prediction and mean/sd of error associated
 with the AGLB size class of that grid cell:
